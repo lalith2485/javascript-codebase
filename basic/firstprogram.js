@@ -6,4 +6,4 @@
 5. Navigate to the "Console" tab to observe the output.
 */
 
-console.log("jai sree ram");
+console.log("jai sree ram"); // output: jai sree ram 
