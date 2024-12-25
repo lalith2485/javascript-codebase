@@ -11,13 +11,13 @@
 // 1. String: Represents textual data
 let name = "Ramachandra"; // Double quotes
 let otherName = 'Dasarathi'; // Single quotes
+console.log("Name:", name, '(Type:', typeof name, ')');
 console.log(otherName + " is one of the names of " + name);
 
 
 // 2. Number: Represents integer and floating-point numbers
 let age = 1016; // Integer value
 let marks = 97.5; // Floating-point value
-console.log("Name:", name, '(Type:', typeof name, ')');
 console.log("Age:", age, '(Type:', typeof age, ')');
 console.log("Marks:", marks, '(Type:', typeof marks, ')');
 
